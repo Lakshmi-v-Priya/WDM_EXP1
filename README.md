@@ -79,7 +79,6 @@ rainy,75.0,80.0,false,yes
 ![4](https://github.com/user-attachments/assets/a391d79f-2591-4be5-b3fb-21e0842164e4)
 ![8](https://github.com/user-attachments/assets/e6fd66d1-8e41-489d-9aae-63af9c59b166)
 
-
 ### 2) Remove -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
